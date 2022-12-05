@@ -1,4 +1,4 @@
-# Directory of *`/kody//`*:
+# Directory of *`/kody/`*:
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\

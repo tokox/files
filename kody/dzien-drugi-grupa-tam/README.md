@@ -1,4 +1,4 @@
-# Directory of *`/kody//dzien-drugi-grupa-tam//`*:
+# Directory of *`/kody/dzien-drugi-grupa-tam/`*:
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\
