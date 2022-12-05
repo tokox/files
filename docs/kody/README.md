@@ -1,2 +1,5 @@
-# Directory of \"/kody/\":
-
+# Directory of /docs/kody:
+## Subdirectories:
+- [./](./)
+- [../](../)
+## Files:
