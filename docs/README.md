@@ -1,2 +1,2 @@
-# Directory of "/":
+# Directory of \"/\":
 
