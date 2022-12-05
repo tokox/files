@@ -1,2 +1,1 @@
-# Directory of "/":
-
+# Serwer for my files
