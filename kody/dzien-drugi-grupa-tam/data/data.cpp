@@ -1,17 +1,10 @@
 #include <iostream>
-#include <regex>
-namespace time {
-	using date = long long int;
-	long long datetotime(string date) {
-			
-	}
-}
+#include <iomanip>
+#define FORMAT "%Y-%m-%d %H-%M-%S"
 int main()
 {
-	std::string d1, d2;
-	std::getline(std::cin, d1);
-	std::getline(std::cin, d2);
-	long long t1 = time::datetotime(d1);
+	std::tm t1, t2;
+	cin >> get_time(t1, FORMAT) >> ws >> get_time(t2, FORMAT);
 	long long t2 = time::datetotime(d2);
 	long long r = t2-t1;
 	std::cout << time::timetoduration(r) << std::endl;
