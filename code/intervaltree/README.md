@@ -6,5 +6,5 @@
 [***`intervaltree.hpp`***](intervaltree.hpp)\
 [***`intervaltree.cpp`***](intervaltree.cpp)\
 [***`intervaltree-merged.cpp`***](intervaltree-merged.cpp)\
-[***`intervaltree`***](intervaltree)\
-[***`intervaltree-merged`***](intervaltree-merged)
+[***`intervaltree (executable)`***](intervaltree)\
+[***`intervaltree-merged (executable)`***](intervaltree-merged)
