@@ -1,11 +1,11 @@
-#include "intervaltree.hpp"
+#include "segmenttree.hpp"
 #include <iostream>
 using namespace std;
 int main()
 {
 	long long n;
 	cin >> n;
-	IntervalTree tree(n);
+	SegmentTree tree(n);
 	char p;
 	int a, b;
 	while(cin >> p >> a >> b) {

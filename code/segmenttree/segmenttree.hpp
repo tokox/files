@@ -1,8 +1,10 @@
+#ifndef SEGMENT_TREE
+#define SEGMENT_TREE
 #include <vector>
 #include <cmath>
-class IntervalTree {
+class SegmentTree {
 	public:
-		IntervalTree(long long n)
+		SegmentTree(long long n)
 			: tree(1<<((long long)std::log2l(n+2)+2), 0)
 		{}
 		void update(long long index, long long value) {
@@ -29,19 +31,4 @@ class IntervalTree {
 	private:
 		std::vector<long long> tree;
 };
-#include <iostream>
-using namespace std;
-int main()
-{
-	long long n;
-	cin >> n;
-	IntervalTree tree(n);
-	char p;
-	int a, b;
-	while(cin >> p >> a >> b) {
-		if(p == 'u' || p == 'U')
-			tree.update(a, b);
-		else if(p == 'q' || p == 'Q')
-			cout << tree.query(a, b) << endl;
-	}
-}
+#endif
