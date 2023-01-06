@@ -1,11 +1,11 @@
-#include "segmenttree.hpp"
+#include "drzewo-przedzialowe-plus-suma-punkt-przedzial.hpp"
 #include <iostream>
 using namespace std;
 int main()
 {
 	long long n;
 	cin >> n;
-	SegmentTree tree(n);
+	DrzewoPrzedzialowePlusSumaPunktPrzedzial tree(n);
 	char p;
 	int a, b;
 	while(cin >> p >> a >> b) {

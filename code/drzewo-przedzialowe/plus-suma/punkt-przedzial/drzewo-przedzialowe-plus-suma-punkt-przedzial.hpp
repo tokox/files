@@ -1,10 +1,10 @@
-#ifndef SEGMENT_TREE
-#define SEGMENT_TREE
+#ifndef DRZEWO_PRZEDZIALOWE_PLUS_SUMA_PUNKT_PRZEDZIAL
+#define DRZEWO_PRZEDZIALOWE_PLUS_SUMA_PUNKT_PRZEDZIAL
 #include <vector>
 #include <cmath>
-class SegmentTree {
+class DrzewoPrzedzialowePlusSumaPunktPrzedzial {
 	public:
-		SegmentTree(long long n)
+		DrzewoPrzedzialowePlusSumaPunktPrzedzial(long long n)
 			: tree(1<<((long long)std::log2l(n+2)+2), 0)
 		{}
 		void update(long long index, long long value) {

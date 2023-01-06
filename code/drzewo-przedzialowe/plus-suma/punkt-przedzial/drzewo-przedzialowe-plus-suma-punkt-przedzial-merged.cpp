@@ -1,8 +1,8 @@
 #include <vector>
 #include <cmath>
-class SegmentTree {
+class DrzewoPrzedzialowePlusSumaPunktPrzedzial {
 	public:
-		SegmentTree(long long n)
+		DrzewoPrzedzialowePlusSumaPunktPrzedzial(long long n)
 			: tree(1<<((long long)std::log2l(n+2)+2), 0)
 		{}
 		void update(long long index, long long value) {
@@ -35,7 +35,7 @@ int main()
 {
 	long long n;
 	cin >> n;
-	SegmentTree tree(n);
+	DrzewoPrzedzialowePlusSumaPunktPrzedzial tree(n);
 	char p;
 	int a, b;
 	while(cin >> p >> a >> b) {
