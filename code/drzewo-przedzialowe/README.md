@@ -2,5 +2,6 @@
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\
-[***`plus-suma/`***](plus-suma/)
+[***`plus-suma/`***](plus-suma/)\
+[***`przypisz-minimum/`***](przypisz-minimum/)
 ## Files:
