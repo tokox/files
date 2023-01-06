@@ -9,7 +9,7 @@ class DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial {
 			: tree(1<<((long long)std::log2l(n+2)+2), LLONG_MAX)
 		{}
 		void update(long long index, long long value) {
-			index += this->tree.size()>>1;
+			index += this->tree.size()>>1+1;
 			this->tree[index] = value;
 			index >>= 1;
 			while(index > 0) {
@@ -18,8 +18,8 @@ class DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial {
 			}
 		}
 		long long query(long long first, long long last) {
-			first += (this->tree.size()>>1)-1;
-			last += (this->tree.size()>>1)+1;
+			first += (this->tree.size()>>1);
+			last += (this->tree.size()>>1)+2;
 			long long result = LLONG_MAX;
 			while(first>>1 != last>>1) {
 				if((first&1)==0)

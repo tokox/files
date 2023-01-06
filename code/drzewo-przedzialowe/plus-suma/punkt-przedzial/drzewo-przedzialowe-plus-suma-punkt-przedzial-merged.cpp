@@ -6,15 +6,15 @@ class DrzewoPrzedzialowePlusSumaPunktPrzedzial {
 			: tree(1<<((long long)std::log2l(n+2)+2), 0)
 		{}
 		void update(long long index, long long value) {
-			index += this->tree.size()>>1;
+			index += this->tree.size()>>1+1;
 			while(index > 0) {
 				this->tree[index] += value;
 				index >>= 1;
 			}
 		}
 		long long query(long long first, long long last) {
-			first += (this->tree.size()>>1)-1;
-			last += (this->tree.size()>>1)+1;
+			first += (this->tree.size()>>1);
+			last += (this->tree.size()>>1)+2;
 			long long result = 0;
 			while(first>>1 != last>>1) {
 				if((first&1)==0)
