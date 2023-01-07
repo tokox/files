@@ -1,4 +1,4 @@
-# Directory of *`/code/drzewo-przedzialowe/plus-wartosc/`*:
+# Directory of *`/code/drzewa-przedzialowe/plus-wartosc/`*:
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\

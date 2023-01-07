@@ -1,4 +1,4 @@
-# Directory of *`/code/drzewo-przedzialowe/plus-suma/`*:
+# Directory of *`/code/drzewa-przedzialowe/przypisz-minimum/`*:
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\

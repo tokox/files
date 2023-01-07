@@ -2,5 +2,5 @@
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\
-[***`drzewo-przedzialowe/`***](drzewo-przedzialowe/)
+[***`drzewa-przedzialowe/`***](drzewa-przedzialowe/)
 ## Files:

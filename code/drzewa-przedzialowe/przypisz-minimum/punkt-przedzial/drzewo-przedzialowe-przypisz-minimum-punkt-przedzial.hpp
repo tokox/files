@@ -2,12 +2,13 @@
 #define DRZEWO_PRZEDZIALOWE_PRZYPISZ_MINIMUM_PUNKT_PRZEDZIAL
 #include <vector>
 #include <cmath>
-#include <climits>
+#include <limits>
 #include <algorithm>
+template<typename T>
 class DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial {
 	public:
-		DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial(long long n)
-			: tree(1<<((long long)std::log2l(n+2)+2), LLONG_MAX)
+		DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial(size_t n)
+			: tree(1<<((size_t)std::log2l(n+2)+2), std::numeric_limits<T>::has_infinity)
 		{}
 		void update(long long index, long long value) {
 			index += (this->tree.size()>>1)+1;

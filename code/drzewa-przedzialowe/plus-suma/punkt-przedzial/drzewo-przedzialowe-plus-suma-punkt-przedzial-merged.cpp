@@ -1,21 +1,22 @@
 #include <vector>
 #include <cmath>
+template<typename T>
 class DrzewoPrzedzialowePlusSumaPunktPrzedzial {
 	public:
-		DrzewoPrzedzialowePlusSumaPunktPrzedzial(long long n)
-			: tree(1<<((long long)std::log2l(n+2)+2), 0)
+		DrzewoPrzedzialowePlusSumaPunktPrzedzial(size_t n)
+			: tree(1<<((size_t)std::log2l(n+2)+2), 0)
 		{}
-		void update(long long index, long long value) {
+		void update(size_t index, T value) {
 			index += (this->tree.size()>>1)+1;
 			while(index > 0) {
 				this->tree[index] += value;
 				index >>= 1;
 			}
 		}
-		long long query(long long first, long long last) {
+		T query(size_t first, size_t last) {
 			first += (this->tree.size()>>1);
 			last += (this->tree.size()>>1)+2;
-			long long result = 0;
+			T result = 0;
 			while(first>>1 != last>>1) {
 				if((first&1)==0)
 					result += this->tree[first+1];
@@ -26,22 +27,36 @@ class DrzewoPrzedzialowePlusSumaPunktPrzedzial {
 			}
 			return result;
 		}
+		size_t size() {
+			return (tree.size()>>1)-2;
+		}
+		T get(size_t index) {
+			return tree[index];
+		}
+		T at(size_t index) {
+			return tree[(tree.size()>>1)+index+1];
+		}
 	private:
-		std::vector<long long> tree;
+		std::vector<T> tree;
 };
 #include <iostream>
 using namespace std;
 int main()
 {
-	long long n;
+	size_t n;
 	cin >> n;
-	DrzewoPrzedzialowePlusSumaPunktPrzedzial tree(n);
+	DrzewoPrzedzialowePlusSumaPunktPrzedzial<int> tree(n);
 	char p;
-	int a, b;
-	while(cin >> p >> a >> b) {
-		if(p == 'u' || p == 'U')
+	while(cin >> p) {
+		if(p == 'u' || p == 'U') {
+			size_t a;
+			int b;
+			cin >> a >> b;
 			tree.update(a, b);
-		else if(p == 'q' || p == 'Q')
+		} else if(p == 'q' || p == 'Q') {
+			size_t a, b;
+			cin >> a >> b;
 			cout << tree.query(a, b) << endl;
+		}
 	}
 }
