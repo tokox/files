@@ -8,7 +8,7 @@ class DrzewoPrzedzialowePlusSumaPunktPrzedzial {
 			: tree(1<<((long long)std::log2l(n+2)+2), 0)
 		{}
 		void update(long long index, long long value) {
-			index += this->tree.size()>>1+1;
+			index += (this->tree.size()>>1)+1;
 			while(index > 0) {
 				this->tree[index] += value;
 				index >>= 1;

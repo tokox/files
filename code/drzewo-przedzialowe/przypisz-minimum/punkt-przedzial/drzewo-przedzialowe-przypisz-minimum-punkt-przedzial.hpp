@@ -3,13 +3,14 @@
 #include <vector>
 #include <cmath>
 #include <climits>
+#include <algorithm>
 class DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial {
 	public:
 		DrzewoPrzedzialowePrzypiszMinimumPunktPrzedzial(long long n)
 			: tree(1<<((long long)std::log2l(n+2)+2), LLONG_MAX)
 		{}
 		void update(long long index, long long value) {
-			index += this->tree.size()>>1+1;
+			index += (this->tree.size()>>1)+1;
 			this->tree[index] = value;
 			index >>= 1;
 			while(index > 0) {
