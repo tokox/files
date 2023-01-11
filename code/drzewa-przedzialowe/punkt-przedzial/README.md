@@ -3,4 +3,7 @@
 [***`./`***](./)\
 [***`../`***](../)
 ## Files:
-[***`drzewo-przedzialowe-punkt-przedzial.hpp`***](drzewo-przedzialowe-punkt-przedzial.hpp)
+[***`plus-suma.cpp`***](plus-suma.cpp)\
+[***`plus-suma (executable)`***](plus-suma)\
+[***`przypisz-minimum.cpp`***](przypisz-minimum.cpp)\
+[***`przypisz-minimum (executable)`***](przypisz-minimum)

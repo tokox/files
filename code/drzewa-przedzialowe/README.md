@@ -2,8 +2,8 @@
 ## Subdirectories:
 [***`./`***](./)\
 [***`../`***](../)\
-[***`plus-suma/`***](plus-suma/)\
-[***`przypisz-minimum/`***](przypisz-minimum/)\
-[***`plus-wartosc/`***](plus-wartosc/)\
-[***`punkt-przedzial/`***](punkt-przedzial/)
+[***`punkt-przedzial/`***](punkt-przedzial/)\
+[***`przedzial-punkt/`***](przedzial-punkt/)
 ## Files:
+[***`punkt-przedzial.hpp`***](punkt-przedzial.hpp)\
+[***`przedzial-punkt.hpp`***](przedzial-punkt.hpp)
