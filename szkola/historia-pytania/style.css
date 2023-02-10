@@ -37,6 +37,11 @@ section {
 p {
 	margin: 0px;
 }
+@media print {
+        button {
+                display: none;
+        }
+}
 button {
 	position: fixed;
 	top: 15px;
