@@ -8,7 +8,7 @@ ol, ul {
 li {
 	margin: 10px;
 }
-details > summary {
+summary {
 	list-style: none;
 	cursor: pointer;
 	border: 3px solid red;
@@ -20,7 +20,7 @@ details > summary {
 	padding-right: 10px;
 	margin: 5px;
 }
-details > summary:hover {
+summary:hover {
 	border-color: darkred;
 	background-color: red;
 }
