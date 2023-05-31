@@ -3,6 +3,6 @@
 [***`./`***](./)\
 [***`../`***](../)\
 [***`historia-pytania/`***](historia-pytania/)\
-[***`chemia-kwasy-i-wodorotlenki/`***](chemia-kwasy-i-wodorotlenki/)\
 [***`niemiecki-autobus/`***](niemiecki-autobus/)
 ## Files:
+[***`chemia-kwasy-i-wodorotlenki.html`***](chemia-kwasy-i-wodorotlenki.html)
