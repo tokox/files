@@ -1,5 +1,4 @@
 # Directory of *`/`*:
 ## Subdirectories:
-[***`code/`***](code/)\
-[***`szkola/`***](szkola/)
+[***`code/`***](code/)
 ## Files:
