@@ -1,7 +1,7 @@
 # Directory of *`/school/`*:
 ## Subdirectories:
 [***`./`***](./)\
-[***`../`***](../)
+[***`../`***](../)\
+[***`niemiecki-autobus/`***](niemiecki-autobus/)\
+[***`polski/`***](polski/)
 ## Files:
-[***`polski-piesn-jk-kp-ii.md`***](polski-piesn-jk-kp-ii.md)\
-[***`polski-piesn-jk-kp-xx.md`***](polski-piesn-jk-kp-xx.md)
