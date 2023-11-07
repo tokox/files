@@ -3,5 +3,6 @@
 [***`./`***](./)\
 [***`../`***](../)\
 [***`niemiecki-autobus/`***](niemiecki-autobus/)\
-[***`polski/`***](polski/)
+[***`polski/`***](polski/)\
+[***`chemia-kwasy-i-wodorotlenki/`***](chemia-kwasy-i-wodorotlenki/)
 ## Files:
