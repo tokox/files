@@ -5,32 +5,32 @@
 Miło szaleć, kiedy czas po temu,\
 A tak, bracia, przypij każdy swemu,\
 Bo o głodzie nie chce sie tańcować,\
-A podpiwszy, łacniej już błaznować.\
+A podpiwszy, łacniej już błaznować.
 
 Niech sie tu nikt z państwem nie ozywa\
 Ani z nami powagi używa,\
 Przywileje powieśmy na kołku,\
-A ty wedla pana siądź, pachołku!\
+A ty wedla pana siądź, pachołku!
 
 Tam dobra myśl nigdy nie postoi,\
 Gdzie z rejestru patrzą, co przystoi;\
 Á powiem wam, że sie tym świat słodzi,\
-Gdy koleją statek i żart chodzi.\
+Gdy koleją statek i żart chodzi.
 
 Ale to mój zysk, że mię słuchacie,\
 A żadnej mi pełnej nie podacie;\
 Znał kto kiedy poetę trzeźwiego?\
-Nie uczyni taki nic dobrego.\
+Nie uczyni taki nic dobrego.
 
 Przedsię do mnie, a ja nie zawiodę;\
 Wy też drudzy, co macie pogodę,\
 Każdy swojej włóż w ucho leda co,\
-Nie macie tu oględać sie na co.\
+Nie macie tu oględać sie na co.
 
 I z namędrszym nie trzymam w tej mierze,\
 Kto sie długo na dobrą myśl bierze;\
 Czas ucieka, a żaden nie zgadnie,\
-Jakie szczęście o jutrze przypadnie.\
+Jakie szczęście o jutrze przypadnie.
 
 Dziś bądź wesół, dziś użyj biesiady,\
 O przyszłym dniu niechaj próznej rady;\

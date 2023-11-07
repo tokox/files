@@ -5,32 +5,32 @@
 Serce roście patrząc na te czasy!\
 Mało przed tym gołe były lasy,\
 Śnieg na ziemi wysszej łokcia leżał,\
-A po rzekach wóz nacięższy zbieżał.\
+A po rzekach wóz nacięższy zbieżał.
 
 Teraz drzewa liście na sie wzięły,\
 Polne łąki pięknie zakwitnęły;\
 Lody zeszły, a po czystej wodzie\
-Idą statki i ciosane łodzie.\
+Idą statki i ciosane łodzie.
 
 Teraz prawie świat sie wszystek śmieje,\
 Zboża wstały, wiatr zachodny wieje;\
 Ptacy sobie gniazda omyślają,\
-A przede dniem śpiewać poczynają.\
+A przede dniem śpiewać poczynają.
 
 Ale to grunt wesela prawego,\
 Kiedy człowiek sumnienia całego\
 Ani czuje w sercu żadnej wady,\
-Przecz by sie miał wstydać swojej rady.\
+Przecz by sie miał wstydać swojej rady.
 
 Temu wina nie trzeba przylewać\
 Ani grać na lutni, ani śpiewać;\
 Będzie wesół, byś chciał, i o wodzie,\
-Bo sie czuje prawie na swobodzie.\
+Bo sie czuje prawie na swobodzie.
 
 Ale kogo gryzie mól zakryty,\
 Nie idzie mu w smak obiad obfity;\
 Żadna go pieśń, żadny głos nie ruszy,\
-Wszystko idzie na wiatr mimo uszy.\
+Wszystko idzie na wiatr mimo uszy.
 
 Dobra myśli, której nie przywabi,\
 Choć kto ściany drogo ujedwabi,\
