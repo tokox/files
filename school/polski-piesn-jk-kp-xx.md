@@ -1,4 +1,4 @@
-# Pieśń II
+# Pieśń XX
 
 ## Treść
 
@@ -53,7 +53,7 @@ Człowiek powinien zaspokajać swoje doczesne potrzeby.
 | Środek stylistyczny    | Przykład                          | Funkcja                                                                                        |
 | ---------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Pytanie retoryczne** | "Znał kto kiedy poetę trzeźwego?" | Humorystyczne podejście do poety, potrzeba upicia się, żeby móc się bawić                      |
-| **Ożywienie**          | "Czas ucieka"<br>"żart chodzi"    | Opis czasu (szybkie przemijanie) w przeciwieństwie do żartu (powoli rozprasza się wśród ludzi) |
+| **Ożywienie**          | "Czas ucieka",<br>"żart chodzi"   | Opis czasu (szybkie przemijanie) w przeciwieństwie do żartu (powoli rozprasza się wśród ludzi) |
 
 ### Kompozycja (budowa)
 
