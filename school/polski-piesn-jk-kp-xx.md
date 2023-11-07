@@ -41,7 +41,7 @@ A k tej radzie nie przypuszczą ciebie.
 
 ### Postawa poety
 
-- „carpe diem” (chwytaj dzień) - nie należy myśleć o przeszłości i przyszłość, a cieszyć się teraźniejszością
+- *„carpe diem”* (chwytaj dzień) - nie należy myśleć o przeszłości i przyszłość, a cieszyć się teraźniejszością
 - Filozofia **epikurejska**
 
 ### Renesansowa koncepcja człowieka
@@ -50,12 +50,13 @@ Człowiek powinien zaspokajać swoje doczesne potrzeby.
 
 ### Środki stylistyczne  i ich funkcje
 
-| Środek stylistyczny    | Przykład                           | Funkcja                                                                                        |
-| ---------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Pytanie retoryczne** | „Znał kto kiedy poetę trzeźwego?”  | Humorystyczne podejście do poety, potrzeba upicia się, żeby móc się bawić                      |
-| **Ożywienie**          | „Czas ucieka”,<br>„żart chodzi”    | Opis czasu (szybkie przemijanie) w przeciwieństwie do żartu (powoli rozprasza się wśród ludzi) |
-| **Wykrzyknienia**      | „A ty wedle pana siądź, pachołku!” | Zwrot do adresata zwiększający kontakt z nim dzięki trybowi rozkazującemu                      |
-| **Epitety**            | *dużo różnych*                     | Lepszy opis sytuacji                                                                           |
+| Środek stylistyczny    | Przykład                               | Funkcja                                                                                        |
+| :--------------------: | -------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Pytanie retoryczne** | *„Znał kto kiedy poetę trzeźwego?”*    | Humorystyczne podejście do poety, potrzeba upicia się, żeby móc się bawić                      |
+| **Ożywienie**          | *„Czas ucieka”*,<br>*„żart chodzi”*    | Opis czasu (szybkie przemijanie) w przeciwieństwie do żartu (powoli rozprasza się wśród ludzi) |
+| **Wykrzyknienia**      | *„A ty wedle pana siądź, pachołku!”*   | Zwrot do adresata zwiększający kontakt z nim dzięki trybowi rozkazującemu                      |
+| **Tryb rozkazujący**   | *„przy­pij każ­dy swe­mu”*, etc.       | -"-                                                                                            |
+| **Epitety**            | *dużo różnych*                         | Lepszy opis sytuacji                                                                           |
 
 
 ### Kompozycja (budowa)

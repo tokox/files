@@ -51,11 +51,11 @@ Człowiek musi tworzyć **harmonię**, żeby móc zaspokoić *swoje potrzeby*.
 ### Środki stylistyczne  i ich funkcje
 
 | Środek stylistyczny | Przykład                                                                   | Funkcja                                                                           |
-| ------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| :-----------------: | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Epitety**         | *dużo różnych*                                                             | Tworzą lepszy opis                                                                |
-| **Metafora**        | „Serce roście (..)”                                                        | Duże zadowolenie                                                                  |
-| **Personifikacja**  | „świat się wszystek śmieje”                                                | Świat jest szczęśliwy                                                             |
-| **Wyliczenie**      | „Ani grać na lutni, ani śpiewać”,<br>„Żadna go pieśń, żaden głos nie ruszy” | Człowiek grzeszny nie osiągnie piękna ani nie zobaczy piękna otaczającego świata |
+| **Metafora**        | *„Serce roście (..)”*                                                      | Duże zadowolenie                                                                  |
+| **Personifikacja**  | *„świat się wszystek śmieje”*                                              | Świat jest szczęśliwy                                                             |
+| **Wyliczenie**      | *„Ani grać na lutni, ani śpiewać”*,<br>*„Żadna go pieśń, żaden głos nie ruszy”* | Człowiek grzeszny nie osiągnie piękna ani nie zobaczy piękna otaczającego świata |
 
 ### Kompozycja (budowa)
 
