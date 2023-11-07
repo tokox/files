@@ -2,8 +2,8 @@
 
 ## Treść
 
-Miło szaleć, kiedy czas po temu,
-A tak, bracia, przypij każdy swemu,
+Miło szaleć, kiedy czas po temu,\
+A tak, bracia, przypij każdy swemu,\
 Bo o głodzie nie chce sie tańcować,
 A podpiwszy, łacniej już błaznować.
 
