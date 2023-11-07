@@ -41,7 +41,7 @@ A k tej radzie nie przypuszczą ciebie.
 
 ### Postawa poety
 
-- "carpe diem" (chwytaj dzień) - nie należy myśleć o przeszłości i przyszłość, a cieszyć się teraźniejszością
+- „carpe diem” (chwytaj dzień) - nie należy myśleć o przeszłości i przyszłość, a cieszyć się teraźniejszością
 - Filozofia **epikurejska**
 
 ### Renesansowa koncepcja człowieka
@@ -52,16 +52,17 @@ Człowiek powinien zaspokajać swoje doczesne potrzeby.
 
 | Środek stylistyczny    | Przykład                          | Funkcja                                                                                        |
 | ---------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Pytanie retoryczne** | "Znał kto kiedy poetę trzeźwego?" | Humorystyczne podejście do poety, potrzeba upicia się, żeby móc się bawić                      |
-| **Ożywienie**          | "Czas ucieka",<br>"żart chodzi"   | Opis czasu (szybkie przemijanie) w przeciwieństwie do żartu (powoli rozprasza się wśród ludzi) |
+| **Pytanie retoryczne** | „Znał kto kiedy poetę trzeźwego?” | Humorystyczne podejście do poety, potrzeba upicia się, żeby móc się bawić                      |
+| **Ożywienie**          | „Czas ucieka”,<br>„żart chodzi”   | Opis czasu (szybkie przemijanie) w przeciwieństwie do żartu (powoli rozprasza się wśród ludzi) |
 
 ### Kompozycja (budowa)
 
-- styl *liryki bezpośredniej*
+- styl **liryki bezpośredniej** (*„mię słuchajcie”*, *„ja nie zawiodę”*, *„nie trzymam”*)
 - refleksja na temat zabawy i picia
 - podmiot mówi o tym, że trzeba odrzucić powagę, stanowiska, relacje, ponieważ przy biesiadzie nie ma miejsca na różnice i podziały
 - podmiot mówi, że jego zadaniem jest bawienie ludzi, dlatego oczekuje więcej trunków, żeby stworzyć lepszą atmosferę
 - uważa, że powinniśmy używać okazji do zabawy i nie zajmować umysłu tym co było lub będzie
+- nie ma potrzeby do martwienia się, ponieważ i tak wszystko będzie według boskiego planu
 
 ### Przesłanie
 
