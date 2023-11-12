@@ -1,4 +1,4 @@
-# Pieśń II
+# Pieśń II z Ksiąg pierwszych
 
 ## Treść
 

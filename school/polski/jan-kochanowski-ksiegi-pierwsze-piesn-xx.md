@@ -1,4 +1,4 @@
-# Pieśń XX
+# Pieśń XX z Ksiąg pierwszych
 
 ## Treść
 
