@@ -1,5 +1,6 @@
 # Directory of *`/school/niemiecki-autobus/images/`*:
 ## Subdirectories:
+[***`/`***](/)\
 [***`./`***](./)\
 [***`../`***](../)
 ## Files:

@@ -1,5 +1,6 @@
 # Directory of *`/school/chemia-kwasy-i-wodorotlenki/`*:
 ## Subdirectories:
+[***`/`***](/)\
 [***`./`***](./)\
 [***`../`***](../)
 ## Files:

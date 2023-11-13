@@ -1,5 +1,6 @@
 # Directory of *`/code/drzewa-przedzialowe/`*:
 ## Subdirectories:
+[***`/`***](/)\
 [***`./`***](./)\
 [***`../`***](../)\
 [***`przedzial-punkt/`***](przedzial-punkt/)\
