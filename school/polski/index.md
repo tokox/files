@@ -1,4 +1,4 @@
-# Język Polski 2023-24
+# Język Polski 2023-2024
 ## 13.11.2023
 ### Treny Jana Kochanowskiego
 #### Wartości Kochanowskiego
