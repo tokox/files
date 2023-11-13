@@ -6,7 +6,7 @@
 ```mermaid
 graph TB
     W["Wartości"]
-    S["Stoicyzm"]
+    St["Stoicyzm"]
     C["Cnota"]
     S["Sława"]
     N["Najważniejsze wartości"]
@@ -19,7 +19,7 @@ graph TB
     O["Ochrona przed ciosami ślepego losu"]
     W --> S
     W --> C
-    W --> S
+    W --> St
     W --> N
     C --> P
     C --> Z
