@@ -4,18 +4,30 @@
 ### Notatki
 #### Wartości Kochanowskiego
 ```mermaid
-graph Wartości Kochanowskiego;
-    Wartości --> stoicyzm;
-    Wartości --> cnota;
-    Wartości --> sława;
-    Wartości --> najważniejsze wartości;
-    cnota --> prawość;
-    cnota --> zacność;
-    sława --> dobre imię;
-    sława --> pamiętanie;
-    najważniejsze wartości --> fundament;
-    najważniejsze wartości --> grunt;
-    najważniejsze wartości --> ochrona przed ciosami ślepego losu;
+graph TB
+    W["Wartości"]
+    S["Stoicyzm"]
+    C["Cnota"]
+    S["Sława"]
+    N["Najważniejsze wartości"]
+    P["Prawość"]
+    Z["Zacność"]
+    D["Dobre imię"]
+    Pa["Pamiętanie"]
+    F["Fundament"]
+    G["Grunt"]
+    O["Ochrona przed ciosami ślepego losu"]
+    W --> S
+    W --> C
+    W --> S
+    W --> N
+    C --> P
+    C --> Z
+    S --> D
+    S --> Pa
+    N --> F
+    N --> G
+    N --> O
 ```
 #### Kompozycja cyklu
 - *Treny I-II* - przedmowa
