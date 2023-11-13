@@ -1,0 +1,30 @@
+#!/bin/python3
+
+import os
+import sys
+
+update_directories = ['.'] if len(sys.argv) <= 1 else sys.argv[1:]
+for update_directory in update_directories:
+	with open(update_directory+'/README.md', 'w') as readme:
+		directories = []
+		files = []
+		for file in os.scandir(update_directory):
+			if not file.name.startswith('.') and file.name not in ['README.md','_config.yml','_layouts','_include']:
+				if file.is_dir():
+					directories.append(file.name+'/')
+				elif file.is_file():
+					files.append(file.name)
+		readme.write('# Directory of *`'+update_directory[1:]+'/`*:\n')
+		readme.write('## Subdirectories:\n')
+		if not os.path.exists(update_directory+'/../.git'):
+			readme.write('[***`/`***](/)\\\n')
+		readme.write('[***`./`***](./)\\\n')
+		if not os.path.exists(update_directory+'/.git'):
+			readme.write('[***`../`***](../)'+('\\' if len(directories) > 0 else '')+'\n')
+		for i in range(len(directories)):
+			readme.write('[***`'+directories[i]+'`***]('+directories[i]+')'+('\\' if i+1 < len(directories) else '')+'\n')
+		readme.write('## Files:\n')
+		for i in range(len(files)):
+			readme.write('[***`'+files[i]+(' (executable)' if os.access(update_directory+'/'+files[i], os.X_OK) else '')+'`***]('+files[i]+')'+('\\' if i+1 < len(files) else '')+'\n')
+		for i in range(len(directories)):
+			os.system(sys.argv[0]+' \''+update_directory+'/'+directories[i][:-1]+'\'')
