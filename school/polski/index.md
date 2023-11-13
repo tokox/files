@@ -1,6 +1,9 @@
 # Język Polski 2023-2024
+
 ## 13.11.2023
+
 ### Treny Jana Kochanowskiego
+
 #### Wartości Kochanowskiego
 ```mermaid
 graph TB
@@ -28,6 +31,7 @@ graph TB
     N --> G
     N --> O
 ```
+
 #### Kompozycja cyklu
 - *Treny I-II* - przedmowa
 - *Treny III-VIII* - wyrazy wzrastającego bólu
@@ -35,5 +39,6 @@ graph TB
 - *Treny XII-XIV* - uzasadnienie zwątpienia
 - *Treny XV-XVII* - szukanie ukojenia
 - *Treny XIII-XIX* - uspokojenie
+
 ### Zadanie
 Napisać rozprawkę na temat: *Na czym w Trenie XI polega kryzys światopoglądowy Jana Kochanowskiego i jak jest przedstawiony?*
