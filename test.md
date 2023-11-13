@@ -1,7 +1,6 @@
-```dot
-digraph G {
-    A -> B
-    B -> C
-    B -> D
-}
+```mermaid
+graph TD;
+    A -> B;
+    B -> C;
+    B -> D;
 ```
