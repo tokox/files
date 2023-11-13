@@ -1,5 +1,6 @@
 # Directory of *`/`*:
 ## Subdirectories:
-[***`school/`***](school/)\
-[***`code/`***](code/)
+[***`code/`***](code/)\
+[***`school/`***](school/)
 ## Files:
+[***`_config.yml`***](_config.yml)
