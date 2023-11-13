@@ -3,20 +3,19 @@
 ### Temat: Treny Jana Kochanowskiego
 ### Notatki
 #### Wartości Kochanowskiego
-```dot
-digraph G {
-    Wartości -> stoicyzm
-    Wartości -> cnota
-    Wartości -> sława
-    Wartości -> najważniejsze wartości
-    cnota -> prawość
-    cnota -> zacność
-    sława -> dobre imię
-    sława -> pamiętanie
-    najważniejsze wartości -> fundament
-    najważniejsze wartości -> grunt
-    najważniejsze wartości -> ochrona przed ciosami ślepego losu
-}
+```mermaid
+graph Wartości Kochanowskiego;
+    Wartości --> stoicyzm;
+    Wartości --> cnota;
+    Wartości --> sława;
+    Wartości --> najważniejsze wartości;
+    cnota --> prawość;
+    cnota --> zacność;
+    sława --> dobre imię;
+    sława --> pamiętanie;
+    najważniejsze wartości --> fundament;
+    najważniejsze wartości --> grunt;
+    najważniejsze wartości --> ochrona przed ciosami ślepego losu;
 ```
 #### Kompozycja cyklu
 - *Treny I-II* - przedmowa
